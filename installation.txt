@@ -1,0 +1,45 @@
+#E-Waste-Management-System 
+
+###### In this website manage the waste and also store the records of waste.Calculate the waste bill and send the data or bill to the company
+
+## Built with HTML,CSS,PHP, Jquery, MYSQL.
+
+
+
+installation of E-Waste-Management-System  project
+
+
+Softwares need 
+
+1. xamp or wamp 
+
+2. xamp/wamp - extract the zip file to inside htdocs/www.
+
+3. start xamp/wamp server.
+
+4. open browser and type - localhost/ewaste
+
+
+show error--
+
+SQLSTATE[HY000] [1049] Unknown database 'userlogin'
+
+
+5. goto localhost/phpmyadmin .
+
+and create database userlogin
+
+and import userlogin.sql file from db folder
+
+6. finally project is successfully installed 
+
+next see how to work it
+
+
+username - ram
+
+password- 123456
+
+
+Register as new user 
+
